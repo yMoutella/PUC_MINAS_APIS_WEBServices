@@ -1,0 +1,14 @@
+{
+  "name": "apis_services_final_trab_sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "kafkajs": "^2.2.4"
+  },
+  "scripts": {
+    "dev": "node --watch src/api.js"
+  }
+}

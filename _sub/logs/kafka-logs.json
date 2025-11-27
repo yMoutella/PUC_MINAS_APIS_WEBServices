@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-11-26T23:48:45.169Z",
+    "topic": "product-logs",
+    "partition": 0,
+    "message": "Product created: {\"id\":1,\"product\":\"Produto teste 26/11\"}"
+  },
+  {
+    "timestamp": "2025-11-26T23:50:55.326Z",
+    "topic": "product-logs",
+    "partition": 0,
+    "message": "Product created: {\"id\":2,\"product\":\"Teste 2\"}"
+  },
+  {
+    "timestamp": "2025-11-26T23:52:38.860Z",
+    "topic": "product-logs",
+    "partition": 0,
+    "message": "Product created: {\"id\":1,\"product\":\"Product teste\"}"
+  },
+  {
+    "timestamp": "2025-11-26T23:52:43.968Z",
+    "topic": "product-logs",
+    "partition": 0,
+    "message": "Product created: {\"id\":2,\"product\":\"Product teste 2\"}"
+  },
+  {
+    "timestamp": "2025-11-27T00:13:28.397Z",
+    "topic": "product-logs",
+    "partition": 0,
+    "message": "Product created: {\"id\":3,\"product\":\"Product teste 3\"}"
+  }
+]
