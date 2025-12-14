@@ -9,6 +9,6 @@
     "kafkajs": "^2.2.4"
   },
   "scripts": {
-    "dev": "node --watch src/api.js"
+    "dev": "node src/api.js"
   }
 }

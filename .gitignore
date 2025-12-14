@@ -1,1 +1,6 @@
-/logs
+/node_modules
+
+/_sub/node_modules
+/_sub/logs
+/product_producer/node_modules
+

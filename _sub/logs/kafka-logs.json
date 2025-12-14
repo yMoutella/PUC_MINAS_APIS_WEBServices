@@ -1,32 +1,14 @@
 [
   {
-    "timestamp": "2025-11-26T23:48:45.169Z",
+    "timestamp": "2025-12-14T18:26:52.782Z",
     "topic": "product-logs",
     "partition": 0,
-    "message": "Product created: {\"id\":1,\"product\":\"Produto teste 26/11\"}"
+    "message": "Product created: {\"id\":2,\"name\":\"PS5\",\"price\":2500}"
   },
   {
-    "timestamp": "2025-11-26T23:50:55.326Z",
+    "timestamp": "2025-12-14T18:27:09.704Z",
     "topic": "product-logs",
     "partition": 0,
-    "message": "Product created: {\"id\":2,\"product\":\"Teste 2\"}"
-  },
-  {
-    "timestamp": "2025-11-26T23:52:38.860Z",
-    "topic": "product-logs",
-    "partition": 0,
-    "message": "Product created: {\"id\":1,\"product\":\"Product teste\"}"
-  },
-  {
-    "timestamp": "2025-11-26T23:52:43.968Z",
-    "topic": "product-logs",
-    "partition": 0,
-    "message": "Product created: {\"id\":2,\"product\":\"Product teste 2\"}"
-  },
-  {
-    "timestamp": "2025-11-27T00:13:28.397Z",
-    "topic": "product-logs",
-    "partition": 0,
-    "message": "Product created: {\"id\":3,\"product\":\"Product teste 3\"}"
+    "message": "Product created: {\"id\":4,\"name\":\"Impressora HP\",\"price\":1000}"
   }
 ]
